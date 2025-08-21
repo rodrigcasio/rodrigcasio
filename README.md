@@ -1,8 +1,8 @@
-## Hi there I am Rodrigo 👋
+## Hi there, I am Rodrigo 👋
 
 ### About Me
 
-- 💻 I'm a passionate undergraduate student in Computer Systems Engineering, constantly working to become an excellent engineer.
+- 💻 I'm an undergraduate student in Computer Systems Engineering, constantly working to become an excellent engineer.
 - 🔭 I'm currently working on my **Full-Stack IBM Developer professional certificate** through Coursera.
 - 🌱 I'm currently expanding my coding skills and understanding consistently in **Codecademy** and **Coursera** courses.
 - 👯 I’m looking to collaborate on projects involving C++, Java, or web development.
