@@ -15,7 +15,7 @@
   <h3>Tech Stack</h3>
 </div>
 
----
+<hr>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,3 +31,14 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A144?style=for-the-badge&logo=neovim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<div align="center">
+  <h3>Stats and Activity</h3>
+</div>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigcasio&show_icons=true&theme=dark" alt="Rodrigo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigcasio&show_icons=true&theme=dark&layout=compact" alt="Rodrigo's Top Languages" />
+</p>
