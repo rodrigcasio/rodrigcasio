@@ -11,9 +11,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a physics enthusiast, even when the concepts are difficult. I'm especially fascinated by the weird and mind-bending world of **quantum physics** and topics like interstellar travel and the nature of black holes. I also enjoy playing chess ♟️, even though I'm still learning.
 
-<p align="center">
+<div align="center">
   <h3>Tech Stack</h3>
-</p>
+</div>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
