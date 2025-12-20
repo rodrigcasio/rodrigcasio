@@ -1,14 +1,15 @@
-## Hi there, I am Rodrigo 👋
+## hellooo :) 
 
 ### About Me
 
-- 💻 I'm an undergraduate student in Computer Systems Engineering, constantly working to become an excellent engineer.
-- 🔭 I'm currently working on my **Full-Stack IBM Developer professional certificate** through Coursera.
-- 🌱 I'm currently expanding my coding skills and understanding consistently in **Codecademy** and **Coursera** courses.
-- 👯 I’m looking to collaborate on projects involving C++, or web development.
-- 💬 Ask me about my projects, including the Bank Account System or Restaurant Management System.
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/rodrigo-casio-a93ab91aa/) or My Email : (rod.casio@outlook.com)
-- ⚡ Fun fact: I'm a physics enthusiast, even when the concepts are difficult. I'm especially fascinated by the weird and mind-bending world of **quantum physics** and topics like interstellar travel and the nature of black holes. I also enjoy playing chess ♟️, even though I'm still learning.
+Im an undergraduate student in Computer Systems Engineering, constantly working to become an excellent engineer.
+Currently working on my **Full-Stack IBM Developer professional certificate** through Coursera.
+I take advantage of learning Web dev through **Codecademy** and **Coursera**.
+I’m looking to collaborate on projects involving C++, or web development in the near future.
+Ask me about my projects, including the Bank Account System or Restaurant Management System, you can check them out on my portfolio [Portfolio](https://rodrigcasio.github.io/)
+How to reach me: [My LinkedIn](https://www.linkedin.com/in/rodrigo-casio-a93ab91aa/) or My Email : (rod.casio@outlook.com)
+
+Books im reading rn: "A tour of C++" (Bjarne Stroustrup), "But how do it know?" (J. Clark Scott)
 
 <div align="center">
   <h3>Tech Stack</h3>
