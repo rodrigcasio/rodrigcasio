@@ -1,6 +1,6 @@
-## hellooo :) 
+## helloo
 
-### About Me
+###im rodrig
 
 Im an undergraduate student in Computer Systems Engineering, constantly working to become an excellent engineer.
 Currently working on my **Full-Stack IBM Developer professional certificate** through Coursera.
