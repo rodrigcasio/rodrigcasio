@@ -2,7 +2,7 @@
 
 ### im rodrig
 
-Im an undergraduate student in Computer Systems Engineering, constantly working to become an excellent engineer.
+Im an undergraduate student in Computer Systems Engineering.
 Currently working on my **Full-Stack IBM Developer professional certificate** through Coursera.
 I take advantage of learning Web dev through **Codecademy** and **Coursera**.
 I’m looking to collaborate on projects involving C++, or web development in the near future.
