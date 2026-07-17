@@ -2,7 +2,7 @@
 
 ### im rodrig
 
-I'm an undergraduate student in Computer Systems Engineering.
+I'm an undergraduate student majoring in Computer Systems Engineering.
 Recently, I concluded my **Full-Stack IBM Developer professional certificate** through Coursera, and it was cool. Learning a lot of web dev was pretty interesting how it works from back-end and front-end perspective.
 
 But right now, I'm fully invested in graphics programming; I'm enjoying it very much, learning through [learopengl](https://learnopengl.com/). Hoping I can comprehend it well and to start learning Vulkan in the future :), baby steps.
